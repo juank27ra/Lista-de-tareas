@@ -22,3 +22,8 @@ Así se ve, y se pueden listar muchas tareas sin tope con la opción de eliminar
 Componente de edicion# Lista-de-tareas
 
 ![image](https://user-images.githubusercontent.com/96093773/204941364-e403d9d1-d069-47fb-91e6-6415d1d6f0c9.png)
+
+Lista de tareas 
+
+![image](https://user-images.githubusercontent.com/96093773/204942265-356dcb9f-fcb0-42e8-ba59-874661bbc4b4.png)
+
